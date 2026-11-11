@@ -184,6 +184,12 @@ El notebook utiliza rutas relativas a la carpeta `src/`. La ejecución requiere 
 
 El notebook incluye las fases de obtención y validación, integración, limpieza y análisis exploratorio, además de conclusiones generales. La documentación final y la presentación se preparan como entregables complementarios.
 
+## 12. Revisión metodológica
+
+La revisión final añade un control de completitud diaria para los análisis comparativos: cada día debe tener al menos 72 registros de 15 minutos por variable, equivalente al 75 % de cobertura nominal. Las visualizaciones descriptivas conservan los datos disponibles; las correlaciones y los indicadores por vivienda aplican este umbral para no interpretar una suma de energía parcial como un día completo.
+
+La dirección de las asociaciones principales se mantiene tras este control. Consulte `documentation/registro_cambios.md` para las medianas recalculadas, las decisiones aplicadas y el alcance de la revisión.
+
 ## 12. Referencia
 
 MODIF-HABIT. Dataset de monitorización energética residencial. Zenodo.  

@@ -286,3 +286,10 @@ La resolución de las incidencias de calidad y la implementación de las transfo
 ### Criterio de cierre
 
 Disponer de un conjunto integrado, reproducible y trazable, con las variables correctamente identificadas y las incidencias documentadas.
+# Actualización de revisión integral
+
+**Fecha:** 09/11/2026  
+**Estado global:** VALIDADA para el alcance exploratorio descrito.
+
+La revisión final incorporó un umbral de 72 registros diarios por variable para las asociaciones y comparaciones entre viviendas, actualizó la memoria y la presentación, y dejó constancia de las comprobaciones en `validacion_final.md`. La copia original se conserva dentro de la entrega. Las limitaciones sobre causalidad, cobertura y variables no observadas permanecen vigentes.
+
